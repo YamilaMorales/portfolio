@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/estilos.css">
+    <link rel="shortcut icon" href="images/favicon.png" />
     <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
 </head>
 
@@ -48,7 +49,7 @@
     </header>
     <main class="container">
         <div class="row">
-            <div class="col-12 pt-3 pb-5">
+            <div class="col-12 pt-4 pb-5">
                 <h1>Contacto</h1>
             </div>
         </div>
@@ -84,8 +85,8 @@
         </div>
         
     </main>
-    <footer class="container mt-4">
-        <div class="row">
+    <footer class="container">
+        <div class="row  m-5  ">
             <div class=" col-12 col-sm-3">
                 <i class="fa-brands fa-github iconos m-2" ></i>
                 <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"></i>

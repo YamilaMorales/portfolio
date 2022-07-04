@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/estilos.css">
+    <link rel="shortcut icon" href="images/favicon.png" />
     <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
 </head>
 
@@ -114,7 +115,7 @@
 
     </main>
     <footer class="container mt-4 ">
-        <div class="row footer-proyecto ">
+        <div class="row footer-proyecto footer">
             <div class=" col-12 col-sm-3  ">
                 <i class="fa-brands fa-github iconos- m-2"></i>
                 <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"></i>

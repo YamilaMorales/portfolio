@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/estilos.css">
+    <link rel="shortcut icon" href="images/favicon.png" />
     <script src="css/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 </head>
@@ -19,8 +20,7 @@
         <nav class="navbar navbar-expand-md mb-4  ">
             <div class="container ">
 
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -48,21 +48,16 @@
 
     </header>
     <main class="container">
-
-        <div class="row ">
-            <div class="col-12  mt-4 mb-2 text-center div-cohete ">
-                <a href="proyectos.html"> <img src="../cohete.svg " class="cohete" alt=""></a>
+        <div class="row">
+            <div class="col-12 mt-4 mb-2 text-center div-cohete mx-auto ">
+                <a href="proyectos.php"> <img src="../portfolio/images/cohete.svg " class="cohete" alt=""></a>
             </div>
-        </div>
-        <div class="row ">
-            <div class="col-12 col-sm-6 mx-auto ">
-                <div class="p-1  my-5 texto-home ">
-                    <p class="p-1">Bienvenid@ a mi sitio web.</p>
-                </div>
+            <div class="col-12 col-sm-6 offset-sm-3 texto-home text-center my-3 pt-2">
+             <div >
+                <p class="texto"> Bienvenid@ a mi sitio web.</p>
+             </div>
             </div>
-        </div>
-        <div class="row ">
-            <div class="col-12 text-center ">
+            <div class="col-12 text-center pt-3 pb-4 ">
                 <a class="btn shadow btn-blanco" href="proyectos.php"> Conoce mis proyectos</a>
             </div>
         </div>
@@ -70,7 +65,7 @@
     <footer class="container ">
         <div class="row footer  pt-5">
             <div class=" col-12 col-sm-3  ">
-                <i class="fa-brands fa-github iconos- m-2"></i>
+                <i class="fa-brands fa-github iconos m-2"></i>
                 <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"></i>
             </div>
             <div class=" col-12 col-sm-3">Sponsor<a href="http://depcsuite.com">DePC Suite</a>

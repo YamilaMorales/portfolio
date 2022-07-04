@@ -26,7 +26,7 @@ textarea {
 }
 
 .form-control {
-    border-radius: 14px;
+    border-radius: 18px;
 }
 
 .btn-blanco {
@@ -105,25 +105,6 @@ footer a {
     border-radius: 20px;
 }
 
-@media (max-width: 750px) {
-    #contacto {
-        background-image: url(..//images/fondo-proyectos.png);
-        background-repeat: no-repeat;
-        background-size: 100%;
-    }
-}
-
-@media (max-width: 750px) {
-    .texto-home p,  #inicio {
-        background-image: none;
-        text-align: center;
-        color: #e20000;
-        border-radius: 20px;
-        border: 1px solid white;
-        font-size: 17px;
-        font-weight: 600;
-    }
-}
 
 
 #proyectos {
@@ -178,21 +159,50 @@ h2 {
     background-repeat: no-repeat;
 }
 
-#inicio .div-cohete img {
+#inicio img {
     height: 400px;
-    text-align: center !important;
+    text-align: center 
 
 }
 
-#inicio .div-cohete :hover {
+#inicio img:hover {
     height: 410px;
 }
-
-#inicio .texto-home p {
+.cohete {
+    height: 410px;
+}
+#inicio .texto-home p  {
     text-align: center;
     color: white;
     border-radius: 20px;
     border: 1px solid white;
     font-size: 17px;
     font-weight: 600;
+}
+
+@media (max-width: 750px) {
+    #contacto, #inicio  {
+        background-image: url(../images/fondo-proyectos.png);
+        background-size: contain;
+        background-repeat: no-repeat;  
+    }
+    #proyectos {
+        background-size: contain;
+        background-repeat: no-repeat; 
+    }
+    #inicio .texto-home p {
+        color: #e20000;
+        font-size: 16 px;
+        border: 1px #e20000 solid;
+        
+    }
+    #inicio, .footer a,  .iconos {
+        color: #e2000e;
+    }
+    
+    #contacto a {
+        color: #e2000e;
+
+    }
+
 }
