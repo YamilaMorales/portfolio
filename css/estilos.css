@@ -18,7 +18,7 @@ h1 {
 p {
     color: #6a6a6a;
     font: size 14px;
-    ;
+    
 }
 
 textarea {
@@ -146,7 +146,7 @@ footer a {
     height: 148px;
 }
 
-h2 {
+#proyectos h2 {
     background-color: #e20000;
     text-transform: uppercase;
     font-size: 14px;
@@ -178,6 +178,16 @@ h2 {
     border: 1px solid white;
     font-size: 17px;
     font-weight: 600;
+
+}
+
+#sobre-mi .foto{
+    border-radius: 600px;
+    height: 300px;
+}
+
+#stack-tecnologico {
+  background-color: #e2000e;
 }
 
 @media (max-width: 750px) {
@@ -204,5 +214,4 @@ h2 {
         color: #e2000e;
 
     }
-
 }

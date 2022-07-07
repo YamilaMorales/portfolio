@@ -19,8 +19,7 @@
         <nav class="navbar navbar-expand-md mb-4  ">
             <div class="container ">
 
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -46,31 +45,68 @@
             </div>
         </nav>
     </header>
-    <main class="container">
-        <div class="row">
-            <div class=" col-sm-5 col 12 mt-5">
-                <h1> Sobre mí</h1>
+    <main>
+        <section class="container">
+            <div class="row">
+                <div class=" col-sm-7 col-12 mt-5">
+                    <h1> Sobre mí</h1>
+                </div>
             </div>
-        </div>
-        <div class="row">
-
-            <div class="col 12 mt-5">
-                <p>Apasionada por la tecnología y gestión de proyectos.</p>
+            <div class="row">
+                <div class="col-12 col-sm-7 mt-5 ">
+                    <p>Apasionada por la tecnología y gestión de proyectos.</p>
+                </div>
+                <div class="col-12 col-sm-5">
+                    <img src="../portfolio/images/descarga.jfif" alt="Yamila Morales" title="Yamila Morales" class="img-fluid foto">
+                </div>
             </div>
-
-            <div class="col 12">
-                <img src="../portfolio/images/descarga.jfif" alt="Yamila Morales" title="Yamila Morales"
-                    class=" img-fluid img-circle">
+            <div class="row">
+                <div class="col 12"> <a class="btn btn-rojo mt-5" href="contacto.php">Enviar mensaje</a></div>
             </div>
-            
-        </div>
-        <div class="row">
-            <div class="col 12"> <a class="btn btn-rojo mt-5" href="contacto.php">Enviar mensaje</a>
-            </div> 
-        </div>
-        <div>
+        </section>
 
-        </div>
+        <section id="stack-tecnologico" class="color-gradiente">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12  pt-5 ">
+                        <h2>Stack tecnológico</h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="experiencia">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-12  pt-5">
+                        <h3>Experiencia laboral</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="formacion">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-12  pt-5 stack">
+                        <p>formacion academica</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <section id="idiomas">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-12  pt-5 stack">
+                        <p>idiomas</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
     </main>
 
 </body>
