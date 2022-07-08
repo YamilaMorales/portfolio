@@ -72,7 +72,85 @@
                         <h2>Stack tecnológico</h2>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-2 ">
+                        <div class="tecnologias">
+                            <h4>Javascript</h4>
+                            <img src="images/javascript.jpeg" alt="Javascript">
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>PHP</h4>
+                            <img src="images/phphwUcGZ41_400x400.jpg" alt="PHP">
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>HTML 5</h4>
+                            <img src="images/htmlkEpgHiC9.png" alt="HTML">
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>React.js</h4>
+                            <img src="images/reacsOYIaJ1KK.png" alt="React.js">
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>jQuery</h4>
+                            <img src="images/jquerylxEKmMnB_400x400.jpg" alt="jQuery">
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>Boostrap</h4>
+                            <img src="images/boostrapC9QJ7V3X.png" alt="Boostrap">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>Laravel</h4>
+                            <img src="images/220px-Laravel.svg_.png" alt="Laravel">
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>MySQL</h4>
+                            <img src="images/mmariadb-logo-400x400.png" alt="MySQL">
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>CSS</h4>
+                            <img src="images/css.png" alt="CSS">
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>Git</h4>
+                            <img src="images/git.png" alt="Git">
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>Apache</h4>
+                            <img src="images/Apache_Software_Foundation_Logo_(2016).svg.png" alt="Apache">
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="tecnologias">
+                            <h4>Mercadopago</h4>
+                            <img src="images/mercadopagogUjuxmmd_400x400.jpg" alt="Mercadopago">
+                        </div>
+                    </div>
+                </div>
             </div>
+
         </section>
 
         <section id="experiencia">

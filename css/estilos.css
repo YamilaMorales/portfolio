@@ -146,7 +146,7 @@ footer a {
     height: 148px;
 }
 
-#proyectos h2 {
+.proyecto h2 {
     background-color: #e20000;
     text-transform: uppercase;
     font-size: 14px;
@@ -181,13 +181,25 @@ footer a {
 
 }
 
-#sobre-mi .foto{
+.foto{
     border-radius: 600px;
     height: 300px;
 }
 
 #stack-tecnologico {
-  background-color: #e2000e;
+  background:#e2000e;
+}
+
+#stack-tecnologico h2 {
+    color: white;
+    font-size: 20px;
+}
+#stack-tecnologico .tecnologias{
+background-color: white;
+
+}
+#stack-tecnologico .tecnologias img {
+    height: 60px;
 }
 
 @media (max-width: 750px) {
