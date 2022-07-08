@@ -183,20 +183,26 @@ footer a {
 
 .foto{
     border-radius: 600px;
-    height: 300px;
+    height: 250px;
 }
 
 #stack-tecnologico {
   background:#e2000e;
+  
 }
-
+#stack-tecnologico h3 {
+    font-size: 15px;
+    color: #282828;
+}
 #stack-tecnologico h2 {
     color: white;
     font-size: 20px;
 }
-#stack-tecnologico .tecnologias{
+#stack-tecnologico .tecnologias {
 background-color: white;
-
+border-radius: 15px;
+text-align: center;
+height: 182px;
 }
 #stack-tecnologico .tecnologias img {
     height: 60px;
