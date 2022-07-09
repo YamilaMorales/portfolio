@@ -151,6 +151,7 @@ footer a {
     text-transform: uppercase;
     font-size: 14px;
     color: white;
+    background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
 }
 
 #inicio {
@@ -187,12 +188,15 @@ footer a {
 }
 
 #stack-tecnologico {
-  background:#e2000e;
-  
+  background:#e2000e; 
+}
+#stack-tecnologico{ 
+    background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
 }
 #stack-tecnologico h3 {
-    font-size: 15px;
+    font-size: 14px;
     color: #282828;
+
 }
 #stack-tecnologico h2 {
     color: white;
@@ -200,12 +204,18 @@ footer a {
 }
 #stack-tecnologico .tecnologias {
 background-color: white;
-border-radius: 10px;
+border-radius: 5px;
 text-align: center;
 height: 182px;
 }
 #stack-tecnologico .tecnologias img {
     height: 60px;
+}
+
+#experiencia h2 {
+font-size: 24px;
+color: #370a6d;
+
 }
 
 @media (max-width: 750px) {

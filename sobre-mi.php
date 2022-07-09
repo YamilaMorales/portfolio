@@ -162,9 +162,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12  pt-5">
-                        <h3>Experiencia laboral</h3>
+                        <h2> <i class="fa-solid fa-briefcase"></i> Experiencia laboral</h2>
                     </div>
                 </div>
+                
             </div>
         </section>
         <section id="formacion">
