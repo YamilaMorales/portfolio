@@ -61,7 +61,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col 12"> <a class="btn btn-rojo mt-5" href="contacto.php">Enviar mensaje</a></div>
+                <div class="col 12"> <a class="btn btn-rojo mt-5 mb-4" href="contacto.php">Enviar mensaje</a></div>
             </div>
         </section>
 
@@ -70,7 +70,7 @@
                 <div class="row">
                     <div class="col-12  pt-5 ">
                      <h2>
-                            Stack tecnológico <br><br><br><br>
+                            Stack tecnológico <br><br><br>
 
                         </h2>
                     </div>
@@ -115,7 +115,7 @@
                     </div>
                 </div>
 
-                <div class="row">
+                <div class="row pb-4">
                     <div class="col-2">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>Laravel</h3>

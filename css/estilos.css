@@ -182,7 +182,7 @@ footer a {
 }
 
 .foto{
-    border-radius: 600px;
+    border-radius: 500px;
     height: 250px;
 }
 
@@ -200,7 +200,7 @@ footer a {
 }
 #stack-tecnologico .tecnologias {
 background-color: white;
-border-radius: 15px;
+border-radius: 10px;
 text-align: center;
 height: 182px;
 }
