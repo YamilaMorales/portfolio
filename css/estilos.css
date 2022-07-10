@@ -373,4 +373,16 @@ color: white;
         color: #e2000e;
 
     }
+    #contacto footer .fa-linkedin-in {
+        color: white;
+        background-color: #e2000e;
+        }
+        
+    #contacto footer .fa-github {
+        color: #e2000e;
+        background-color: white;
+        border-radius: 80px;
+        }
+    #contaco .footer a {
+        color: #e20000;
 }
