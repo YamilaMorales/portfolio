@@ -53,61 +53,61 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-sm-7 mt-5 ">
+                <div class="col-12 col-sm-7 mt-3 ">
                     <p>Apasionada por la tecnología y gestión de proyectos.</p>
                 </div>
-                <div class="col-12 col-sm-5">
-                    <img src="../portfolio/images/descarga.jfif" alt="Yamila Morales" title="Yamila Morales" class="img-fluid foto">
+                <div class="col-12 col-sm-5 ">
+                    <img src="../portfolio/images/imSin título.png" alt="Yamila Morales" title="Yamila Morales" class="img-fluid foto">
                 </div>
             </div>
             <div class="row">
-                <div class="col 12"> <a class="btn btn-rojo mt-5 mb-4" href="contacto.php">Enviar mensaje</a></div>
+                <div class="col 12"> <a class="btn btn-rojo  mb-4" href="contacto.php">Enviar mensaje</a></div>
             </div>
         </section>
 
-        <section id="stack-tecnologico" >
+        <section id="stack-tecnologico">
             <div class="container">
                 <div class="row">
                     <div class="col-12  pt-5 ">
-                     <h2>
+                        <h2>
                             Stack tecnológico <br><br><br>
 
                         </h2>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-2 ">
+                    <div class="col-sm-2 col-6 ">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>Javascript</h3>
                             <img src="images/javascript.jpeg" alt="Javascript">
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>PHP</h3>
                             <img src="images/phphwUcGZ41_400x400.jpg" alt="PHP">
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5  mb-4">
                             <h3>HTML 5</h3>
                             <img src="images/htmlkEpgHiC9.png" alt="HTML">
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>React.js</h3>
                             <img src="images/reacsOYIaJ1KK.png" alt="React.js">
-        
+
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>jQuery</h3>
                             <img src="images/jquerylxEKmMnB_400x400.jpg" alt="jQuery">
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>Boostrap</h3>
                             <img src="images/boostrapC9QJ7V3X.png" alt="Boostrap">
@@ -116,37 +116,37 @@
                 </div>
 
                 <div class="row pb-4">
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>Laravel</h3>
                             <img src="images/220px-Laravel.svg_.png" alt="Laravel">
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>MySQL</h3>
                             <img src="images/mmariadb-logo-400x400.png" alt="MySQL">
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>CSS</h3>
                             <img src="images/css.png" alt="CSS">
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>Git</h3>
                             <img src="images/git.png" alt="Git">
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>Apache</h3>
                             <img src="images/Apache_Software_Foundation_Logo_(2016).svg.png" alt="Apache">
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-sm-2 col-6">
                         <div class="tecnologias pt-5 mb-4">
                             <h3>Mercadopago</h3>
                             <img src="images/mercadopagogUjuxmmd_400x400.jpg" alt="Mercadopago">
@@ -161,32 +161,111 @@
 
             <div class="container">
                 <div class="row">
-                    <div class="col-12  pt-5">
+                    <div class="col-12 pt-5 pb-4">
                         <h2> <i class="fa-solid fa-briefcase"></i> Experiencia laboral</h2>
                     </div>
                 </div>
-                
+                <div class="row shadow p-3">
+                    <div class="col-2 d-none d-sm-block p-5 my-auto">
+                        <img src="images/experienciasin-logo (1).png" alt="Experiencia" class=" img-fluid gris">
+                    </div>
+                    <div class="col-sm-10 ">
+
+                        <h3>Puesto</h3>
+                        <h4>EMPRESA</h4>
+                        <h5>Periodo</h5>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ratione explicabo ipsam eaque ut delectus nesciunt molestias, blanditiis pariatur voluptas fugiat fuga cupiditate quos vitae expedita reprehenderit quod laboriosam accusantium!
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque molestiae corrupti expedita. Veritatis facilis excepturi neque possimus nemo fuga reprehenderit officiis cupiditate, adipisci ab distinctio corrupti necessitatibus. Dignissimos, odit nihil.
+
+                        </p>
+                    </div>
+
+                    <div class="col-2 d-none d-sm-block p-5 my-auto ">
+                        <img src="images/experienciasin-logo (1).png" alt="Experiencia" class="img-fluid gris">
+                    </div>
+                    <div class="col-sm-10 ">
+
+                        <h3>Puesto</h3>
+                        <h4>EMPRESA</h4>
+                        <h5>Periodo</h5>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ratione explicabo ipsam eaque ut delectus nesciunt molestias, blanditiis pariatur voluptas fugiat fuga cupiditate quos vitae expedita reprehenderit quod laboriosam accusantium!
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque molestiae corrupti expedita. Veritatis facilis excepturi neque possimus nemo fuga reprehenderit officiis cupiditate, adipisci ab distinctio corrupti necessitatibus. Dignissimos, odit nihil.
+
+                        </p>
+                    </div>
+
+                    <div class="col-2 d-none d-sm-block p-5 my-auto ">
+                        <img src="images/experienciasin-logo (1).png" alt="Experiencia" class="img-fluid gris">
+                    </div>
+                    <div class="col-sm-10  ">
+
+                        <h3>Puesto</h3>
+                        <h4>EMPRESA</h4>
+                        <h5>Periodo</h5>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto ratione explicabo ipsam eaque ut delectus nesciunt molestias, blanditiis pariatur voluptas fugiat fuga cupiditate quos vitae expedita reprehenderit quod laboriosam accusantium!
+                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque molestiae corrupti expedita. Veritatis facilis excepturi neque possimus nemo fuga reprehenderit officiis cupiditate, adipisci ab distinctio corrupti necessitatibus. Dignissimos, odit nihil.
+
+                        </p>
+                    </div>
+                </div>
             </div>
+
         </section>
         <section id="formacion">
 
             <div class="container">
-                <div class="row">
-                    <div class="col-12  pt-5 stack">
-                        <p>formacion academica</p>
+                <div class="row ">
+                    <div class="col-12  pt-5 pb-2 ">
+                        <h2><i class="fa-solid fa-graduation-cap"> </i> Formación académica</h2>
                     </div>
+                </div>
+                <div class="row shadow mt-3">
+                    <div class="col-2 d-none d-sm-block p-5">
+                        <img src="images/logo-depcsuite.svg" alt="DePCSuite" class=" gris">
+                    </div>
+                    <div class="col-sm-10 p-4 mt-3">
+                        <h3> Programación Full Stack</h3>
+                        <h4>DePc Suite </h4>
+                        <h5>05/2022 - 11/2022</h5>
+                        <h5>www.DePcSuite.com</h5>
 
+                    </div>
                 </div>
             </div>
         </section>
-        <section id="idiomas">
+        <section id="cursos">
 
             <div class="container">
                 <div class="row">
                     <div class="col-12  pt-5 stack">
-                        <p>idiomas</p>
+                        <h2><i class="fa-solid fa-graduation-cap"> </i> Cursos de formación académica</h2>
                     </div>
+                </div>
+                <div class="row shadow mt-3">
+                    <div class="col-2 d-none d-sm-block p-5">
+                        <img src="images/experienciasin-logo (1).png" alt="cursos" class="">
+                    </div>
+                    <div class="col-10 col-sm-6 py-4 mt-3">
+                        <h3>Curso</h3>
+                        <h4>Academia</h4>
+                        <h5>Periodo</h5>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="idiomas" class="mt-5">
 
+            <div class="container">
+                <div class="row">
+                    <div class="col-6  pt-5 ">
+                    <i class="fas fa-comment-alt "></i> <h4> Idiomas</h4>
+                    </div>
+                     <div class="col-6 "> 
+
+                     </div>
                 </div>
             </div>
         </section>

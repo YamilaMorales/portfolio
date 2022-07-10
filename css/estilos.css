@@ -87,7 +87,7 @@ footer a {
 }
 
 .fa-linkedin-in {
-    background-color: white;
+background-color: white;
     color: #ff4a49;
     border-radius: 80px;
     font-size: 20px;
@@ -97,110 +97,108 @@ footer a {
 }
 
 .nav-link {
-    color: #282828;
+color: #282828;
 }
 
 .active {
-    border: 1px solid #e20000;
-    border-radius: 20px;
+border: 1px solid #e20000;
+border-radius: 20px;
 }
 
 
 
 #proyectos {
-    background-image: url(..//images/fondo-proyectos.png);
-    background-repeat: no-repeat;
-    background-size: 100%;
+background-image: url(..//images/fondo-proyectos.png);
+background-repeat: no-repeat;
+background-size: 100%;
 }
 
 #proyectos footer .fa-linkedin-in {
-    color: white;
-    background-color: #e2000e;
+color: white;
+background-color: #e2000e;
 }
 
 #proyectos footer .fa-github {
-    color: #e2000e;
-    background-color: white;
-    border-radius: 80px;
-
+color: #e2000e;
+background-color: white;
+border-radius: 80px;
 }
 
 .proyecto {
-    border: 1px solid #eee;
-    font-size: 14px;
-    background-color: white;
-    background-size: 100%;
+border: 1px solid #eee;
+font-size: 14px;
+background-color: white;
+background-size: 100%;
 }
 
 .proyecto img {
-    height: 208px;
+height: 208px;
 }
 
 .proyecto a {
-    color: #e20000;
+color: #e20000;
 }
 
 .proyecto p {
-
-    font-size: 14px;
-    height: 148px;
+font-size: 14px;
+height: 148px;
 }
 
 .proyecto h2 {
-    background-color: #e20000;
-    text-transform: uppercase;
-    font-size: 14px;
-    color: white;
-    background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
+background-color: #e20000;
+text-transform: uppercase;
+font-size: 14px;
+color: white;
+background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
 }
 
 #inicio {
-    background-image: url('../images/fondo-contacto.png');
-    background-size: 100%;
-    background-repeat: no-repeat;
+background-image: url('../images/fondo-contacto.png');
+background-size: 100%;
+background-repeat: no-repeat;
 }
 
 #inicio img {
-    height: 400px;
-    text-align: center 
+height: 400px;
+text-align: center 
 
 }
 
 #inicio img:hover {
-    height: 410px;
+height: 410px;
 }
 .cohete {
-    height: 410px;
+height: 410px;
 }
 #inicio .texto-home p  {
-    text-align: center;
-    color: white;
-    border-radius: 20px;
-    border: 1px solid white;
-    font-size: 17px;
-    font-weight: 600;
-
+text-align: center;
+color: white;
+border-radius: 20px;
+border: 1px solid white;
+font-size: 17px;
+font-weight: 600;
 }
 
 .foto{
-    border-radius: 500px;
-    height: 250px;
+border-radius: 600px;
+height: 250px;
 }
 
 #stack-tecnologico {
-  background:#e2000e; 
+background:#e2000e; 
 }
 #stack-tecnologico{ 
-    background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
+background: linear-gradient(to right, rgba(184,37,20,1) 0%, rgba(214,52,30,1) 47%, rgba(240,47,23,1) 70%, rgba(240,47,23,1) 100%);
 }
 #stack-tecnologico h3 {
-    font-size: 14px;
-    color: #282828;
+font-size: 14px;
+color: #282828;
 
 }
 #stack-tecnologico h2 {
-    color: white;
-    font-size: 20px;
+color: white;
+font-size: 24px;
+font-weight: 400px;
 }
 #stack-tecnologico .tecnologias {
 background-color: white;
@@ -215,8 +213,95 @@ height: 182px;
 #experiencia h2 {
 font-size: 24px;
 color: #370a6d;
+font-weight: 400px;
+}
+#experiencia h3 {
+font-size: 18px;
+color:#6a6a6a;
+font-weight: 600px; 
+}
+
+#experiencia h4 {
+font-size: 17px;
+color:#370a6d;
+font-weight: 400px; 
+}
+#experiencia h5 {
+font-size: 15px;
+color:#6a6a6a;
+font-weight: 400px;
 
 }
+
+.gris { 
+-webkit-filter: grayscale (100%);
+filter:grayscale (100%)
+}
+.gris:hover {
+-webkit-filter: grayscale (100%);
+filter:grayscale (100%)
+}
+
+#formacion h2{
+font-size: 24px;
+color:#e2000e;
+font-weight: 400px;
+}
+
+#formacion h3 {
+font-size: 18px;
+color:#6a6a6a;
+font-weight: 400px;
+
+}
+#formacion  h4 {
+font-size: 17px;
+color:#e2000e;
+font-weight: 400px;   
+
+}
+#formacion h5 {
+font-size: 15px;
+color:#6a6a6a;
+font-weight: 400px;   
+
+}
+
+#formacion img {
+   
+    width: 90px;
+
+}
+#cursos h2{
+font-size: 24px;
+color:#e2000e;
+
+}    
+#cursos h3 {
+font-size: 18px;
+color:#6a6a6a;
+font-weight: 400px;
+
+}
+#cursos h4 {
+font-size: 17px;
+color:#e2000e;
+font-weight: 400px;      
+}
+
+#cursos h5{
+font-size: 15px;
+color:#6a6a6a;
+  
+
+}
+#cursos img { 
+    height: 80px;
+}
+#idiomas{
+    background: #eee;
+}
+
 
 @media (max-width: 750px) {
     #contacto, #inicio  {
