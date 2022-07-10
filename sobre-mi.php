@@ -299,8 +299,7 @@
             </div>
             <div class=" col-12 col-sm-3">Sponsor<a href="http://depcsuite.com">DePC Suite</a>
             </div>
-            <div class=" col-12 col-sm-3"> <a
-                    href="mail.to:contacto@yamilamorales.com.ar">contacto@yamilamorales.com.ar</a>
+            <div class=" col-12 col-sm-3"> <a href="mail.to:contacto@yamilamorales.com.ar">contacto@yamilamorales.com.ar</a>
             </div>
         </div>
     </footer>

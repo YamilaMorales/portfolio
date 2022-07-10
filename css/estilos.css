@@ -329,6 +329,12 @@ font-weight: 600px;
     font-size: 80px;
     color: white;
 }
+#idiomas footer .fa-github {
+    color: #e2000e;
+    background-color: white;
+    border-radius: 80px;
+    }
+    
 @media (max-width: 750px) {
     #contacto, #inicio  {
         background-image: url(../images/fondo-proyectos.png);
