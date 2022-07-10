@@ -222,9 +222,9 @@
                         <h2><i class="fa-solid fa-graduation-cap"> </i> Formación académica</h2>
                     </div>
                 </div>
-                <div class="row shadow mt-3">
+                <div class="row shadow mt-3 ">
                     <div class="col-2 d-none d-sm-block p-5">
-                        <img src="images/logo-depcsuite.svg" alt="DePCSuite" class="mt-1 gris">
+                        <img src="images/logo-depcsuite.svg" alt="DePCSuite" class="mt-1 gris ">
                     </div>
                     <div class="col-sm-10 p-4 mt-3">
                         <h3> Programación Full Stack</h3>
