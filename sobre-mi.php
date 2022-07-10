@@ -245,10 +245,10 @@
                     </div>
                 </div>
                 <div class="row shadow mt-3">
-                    <div class="col-2 d-none d-sm-block p-5">
+                    <div class="col-2 d-none d-sm-block p-5 ">
                         <img src="images/experienciasin-logo (1).png" alt="cursos" class="">
                     </div>
-                    <div class="col-10 col-sm-6 py-4 mt-3">
+                    <div class="col-10 col-sm-6 py-4 mt-3 ">
                         <h3>Curso</h3>
                         <h4>Academia</h4>
                         <h5>Periodo</h5>
@@ -256,16 +256,36 @@
                 </div>
             </div>
         </section>
-        <section id="idiomas" class="mt-5">
-
+        <section id="idiomas">
             <div class="container">
-                <div class="row">
-                    <div class="col-6  pt-5 ">
-                    <i class="fas fa-comment-alt "></i> <h4> Idiomas</h4>
+                <div class="row py-5 mx-0">
+                    <div class="col-sm-6 col-12  pb-3 pb-sm-0">
+                        <div class="row mr-sm-1 bg-white shadow me-sm-1">
+                            <div class="col-4 text-center mt-5 clase-d ">
+                                <i class="fas fa-comment-alt "></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>IDIOMAS</h2>
+                                <ul>
+                                    <li>ESPAÑOL - Nativo</li>
+                                    <li>INGLÉS - A2 </li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
-                     <div class="col-6 "> 
-
-                     </div>
+                    <div class="col-sm-6 col-12">
+                        <div class="row ml-sm-2 bg-white ms-sm-1 clase-d1 shadow ">
+                            <div class="col-4 text-center clase-d mt-5 ">
+                                <i class="fas fa-star"></i>
+                            </div>
+                            <div class="col-8 p-5">
+                                <h2>HOBBIES</h2>
+                                <ul>
+                                    <li>Gimnasio</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>

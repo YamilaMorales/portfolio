@@ -302,6 +302,15 @@ color:#6a6a6a;
     background: #eee;
 }
 
+#idioma .clase-d {
+    background-color: #370A6D;
+    border-radius: 15px;
+    padding: 40px 0;
+
+}
+#isobre-mi .clase-d1 {
+    height: 182px
+}
 
 @media (max-width: 750px) {
     #contacto, #inicio  {
