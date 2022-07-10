@@ -49,12 +49,12 @@
     </header>
     <main class="container">
         <div class="row">
-            <div class="col-12 mt-4  text-center cohete ">
+            <div class="col-12 mt-4  text-center cohete  ">
                 <a href="proyectos.php"> <img src="../portfolio/images/cohete.svg " class="" alt=""></a>
             </div>
         </div>
         <div>
-            <div class="col-12 col-sm-6 offset-sm-3 texto-home text-center my-3 pt-2">
+            <div class="col-12 col-sm-6 offset-sm-3 texto-home text-center my-3 mt-5 pt-2">
                 <div>
                     <p class="texto"> Bienvenid@ a mi sitio web.</p>
                 </div>
