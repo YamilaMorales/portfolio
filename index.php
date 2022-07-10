@@ -52,10 +52,12 @@
             <div class="col-12 mt-4 mb-2 text-center div-cohete mx-auto ">
                 <a href="proyectos.php"> <img src="../portfolio/images/cohete.svg " class="cohete" alt=""></a>
             </div>
+        </div>
+        <div>
             <div class="col-12 col-sm-6 offset-sm-3 texto-home text-center my-3 pt-2">
-             <div >
-                <p class="texto"> Bienvenid@ a mi sitio web.</p>
-             </div>
+                <div>
+                    <p class="texto"> Bienvenid@ a mi sitio web.</p>
+                </div>
             </div>
             <div class="col-12 text-center pt-3 pb-4 ">
                 <a class="btn shadow btn-blanco" href="proyectos.php"> Conoce mis proyectos</a>
@@ -65,12 +67,12 @@
     <footer class="container ">
         <div class="row footer  pt-5">
             <div class=" col-12 col-sm-3  ">
-                <i class="fa-brands fa-github iconos m-2"></i>
-                <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"></i>
+                <a href="https://github.com/"><i class="fa-brands fa-github iconos- m-2"> </i></a>
+                <a href="https://www.linkedin.com/in/yamila-morales-6b60601a5/"> <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"> </i></a>
             </div>
-            <div class=" col-12 col-sm-3">Sponsor<a href="http://depcsuite.com">DePC Suite</a>
+            <div class="  col-12 col-sm-3">Sponsor<a href="http://depcsuite.com">DePC Suite</a>
             </div>
-            <div class=" col-12 col-sm-3">
+            <div class=" col-12 col-sm-3 ">
                 <a href="mail.to:contacto@yamilamorales.com.ar">contacto@yamilamorales.com.ar</a>
             </div>
         </div>

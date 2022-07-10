@@ -197,7 +197,7 @@
                     </div>
 
                     <div class="col-2 d-none d-sm-block p-5 my-auto ">
-                        <img src="images/experienciasin-logo (1).png" alt="Experiencia" class="img-fluid gris">
+                        <img src="images/experienciasin-logo (1).png" alt="Experiencia" class="img-fluid">
                     </div>
                     <div class="col-sm-10  ">
 
@@ -216,7 +216,7 @@
         </section>
         <section id="formacion">
 
-            <div class="container">
+            <div class="container ">
                 <div class="row ">
                     <div class="col-12  pt-5 pb-2 ">
                         <h2><i class="fa-solid fa-graduation-cap"> </i> Formación académica</h2>
@@ -224,7 +224,7 @@
                 </div>
                 <div class="row shadow mt-3">
                     <div class="col-2 d-none d-sm-block p-5">
-                        <img src="images/logo-depcsuite.svg" alt="DePCSuite" class=" gris">
+                        <img src="images/logo-depcsuite.svg" alt="DePCSuite" class="mt-1 gris">
                     </div>
                     <div class="col-sm-10 p-4 mt-3">
                         <h3> Programación Full Stack</h3>
@@ -238,15 +238,15 @@
         </section>
         <section id="cursos">
 
-            <div class="container">
+            <div class="container mb-5">
                 <div class="row">
                     <div class="col-12  pt-5 stack">
-                        <h2><i class="fa-solid fa-graduation-cap"> </i> Cursos de formación académica</h2>
+                        <h2><i class="fa-solid fa-graduation-cap"> </i> Cursos de formación profresional</h2>
                     </div>
                 </div>
                 <div class="row shadow mt-3">
-                    <div class="col-2 d-none d-sm-block p-5 ">
-                        <img src="images/experienciasin-logo (1).png" alt="cursos" class="">
+                    <div class="col-2 d-none d-sm-block p-5  ">
+                        <img src="images/experienciasin-logo (1).png" alt="cursos" class="gris">
                     </div>
                     <div class="col-10 col-sm-6 py-4 mt-3 ">
                         <h3>Curso</h3>
@@ -259,29 +259,31 @@
         <section id="idiomas">
             <div class="container">
                 <div class="row py-5 mx-0">
-                    <div class="col-sm-6 col-12  pb-3 pb-sm-0">
-                        <div class="row mr-sm-1 bg-white shadow me-sm-1 clase">
-                            <div class="col-4 text-center  claseidioma ">
-                                <i class="fas fa-comment-alt "></i>
+                    <div class="col-sm-6 col-12 pb-3 pb-sm-0">
+                        <div class="row mr-sm-1 bg-white card-idioma shadow me-sm-1">
+                            <div class="col-4 text-center card">
+                                <i class="fas fa-comment-alt"></i>
                             </div>
                             <div class="col-8 p-5">
                                 <h2>IDIOMAS</h2>
                                 <ul>
                                     <li>ESPAÑOL - Nativo</li>
-                                    <li>INGLÉS - A2 </li>
+                                    <li>INGLÉS - A2</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-12">
-                        <div class="row ml-sm-2 bg-white ms-sm-1 clase shadow ">
-                            <div class="col-4 text-center claseidioma mt-5 ">
+                    <div class="col-sm-6 col-12 pb-3 pb-sm-0  ">
+                        <div class="row ml-sm-2 bg-white card-idioma shadow ms-sm-1 ">
+                            <div class="col-4 text-center card ">
                                 <i class="fas fa-star"></i>
                             </div>
-                            <div class="col-8 p-5">
+                            <div class="col-8 p-5  ">
                                 <h2>HOBBIES</h2>
                                 <ul>
                                     <li>Gimnasio</li>
+                                    <li>Lectura</li>
+
                                 </ul>
                             </div>
                         </div>
@@ -289,13 +291,14 @@
                 </div>
             </div>
         </section>
+        </div>
     </main>
 
-    <footer class="container mt-4 ">
+    <footer class="container mt-5 pt-4">
         <div class="row footer-proyecto footer">
-            <div class=" col-12 col-sm-3  ">
-                <i class="fa-brands fa-github iconos- m-2"></i>
-                <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"></i>
+            <div class=" col-12 col-sm-3 iconos ">
+                <a href="https://github.com/"><i class="fa-brands fa-github iconos- m-2"> </i></a>
+                <a href="https://www.linkedin.com/in/yamila-morales-6b60601a5/"> <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"> </i></a>
             </div>
             <div class=" col-12 col-sm-3">Sponsor<a href="http://depcsuite.com">DePC Suite</a>
             </div>

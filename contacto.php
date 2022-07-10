@@ -86,10 +86,10 @@
         
     </main>
     <footer class="container">
-        <div class="row  m-5  ">
-            <div class=" col-12 col-sm-3">
-                <i class="fa-brands fa-github iconos m-2" ></i>
-                <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"></i>
+        <div class="row  mt-5 pt-4  ">
+            <div class=" col-12 col-sm-3 ">
+                <a href="https://github.com/"><i class="fa-brands fa-github iconos- m-2"> </i></a>
+                <a href="https://www.linkedin.com/in/yamila-morales-6b60601a5/"> <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"> </i></a> 
             </div>
             <div class=" col-12 col-sm-3">Sponsor<a href="http://depcsuite.com">DePC Suite</a></div>
             <div class=" col-12 col-sm-3"> <a href="mail.to:contacto@yamilamorales.com.ar">contacto@yamilamorales.com.ar</a></div>

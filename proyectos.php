@@ -114,11 +114,11 @@
         </div>
 
     </main>
-    <footer class="container mt-4 ">
+    <footer class="container mt-4 pt-4">
         <div class="row footer-proyecto footer">
             <div class=" col-12 col-sm-3  ">
-                <i class="fa-brands fa-github iconos- m-2"></i>
-                <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"></i>
+                <a href="https://github.com/"><i class="fa-brands fa-github iconos- m-2"> </i></a>
+                <a href="https://www.linkedin.com/in/yamila-morales-6b60601a5/"> <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"> </i></a> 
             </div>
             <div class=" col-12 col-sm-3">Sponsor<a href="http://depcsuite.com">DePC Suite</a>
             </div>

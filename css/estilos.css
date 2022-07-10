@@ -182,6 +182,7 @@ font-weight: 600;
 .foto{
 border-radius: 600px;
 height: 250px;
+
 }
 
 #stack-tecnologico {
@@ -229,17 +230,16 @@ font-weight: 400px;
 #experiencia h5 {
 font-size: 15px;
 color:#6a6a6a;
-font-weight: 400px;
+font-weight: 600px;
 
 }
-
-.gris { 
+#formacion .gris { 
 -webkit-filter: grayscale (100%);
-filter:grayscale (100%)
+filter:grayscale (100%);
 }
-.gris:hover {
+#formacion .gris:hover {
 -webkit-filter: grayscale (100%);
-filter:grayscale (100%)
+filter: grayscale (100%);
 }
 
 #formacion h2{
@@ -263,7 +263,7 @@ font-weight: 400px;
 #formacion h5 {
 font-size: 15px;
 color:#6a6a6a;
-font-weight: 400px;   
+font-weight: 600px;   
 
 }
 
@@ -302,39 +302,44 @@ color:#6a6a6a;
     background: #eee;
 }
 
-#idiomas .clase {
+#idiomas .card-idioma {
 
     border-radius: 15px;
   
 
 }
-#idiomas .claseidioma {
+#idiomas .card{
 
 background-color: #370A6D;
 border-radius: 15px;
 padding: 40px 0;
-    }
+}
 
 #idiomas h2{
 font-size: 16px;
 font-weight: 600px;
 }
 #idiomas ul{
-    padding: 0px;
-    font-size: 14px;
-    color: #282828;
-    list-style-type: none;
+padding: 0px;
+font-size: 14px;
+color: #282828;
+list-style-type: none;
 }
 #idiomas .fas{
-    font-size: 80px;
-    color: white;
+font-size: 80px;
+color: white;
 }
-#idiomas footer .fa-github {
+#sobre-mi footer .fa-github {
     color: #e2000e;
     background-color: white;
     border-radius: 80px;
-    }
+ }
     
+ #sobre-mi footer .fa-linkedin-in {
+    color: white;
+    background-color: #e2000e;
+    
+    }
 @media (max-width: 750px) {
     #contacto, #inicio  {
         background-image: url(../images/fondo-proyectos.png);
@@ -351,10 +356,19 @@ font-weight: 600px;
         border: 1px #e20000 solid;
         
     }
-    #inicio, .footer a,  .iconos {
+    #inicio footer .fa-linkedin-in {
+        color: white;
+        background-color: #e2000e;
+        }
+        
+    #inicio footer .fa-github {
         color: #e2000e;
+        background-color: white;
+        border-radius: 80px;
+        }
+    #inicio .footer a {
+        color: #e20000;
     }
-    
     #contacto a {
         color: #e2000e;
 
