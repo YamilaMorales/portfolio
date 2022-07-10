@@ -260,8 +260,8 @@
             <div class="container">
                 <div class="row py-5 mx-0">
                     <div class="col-sm-6 col-12  pb-3 pb-sm-0">
-                        <div class="row mr-sm-1 bg-white shadow me-sm-1">
-                            <div class="col-4 text-center mt-5 clase-d ">
+                        <div class="row mr-sm-1 bg-white shadow me-sm-1 clase">
+                            <div class="col-4 text-center  claseidioma ">
                                 <i class="fas fa-comment-alt "></i>
                             </div>
                             <div class="col-8 p-5">
@@ -274,8 +274,8 @@
                         </div>
                     </div>
                     <div class="col-sm-6 col-12">
-                        <div class="row ml-sm-2 bg-white ms-sm-1 clase-d1 shadow ">
-                            <div class="col-4 text-center clase-d mt-5 ">
+                        <div class="row ml-sm-2 bg-white ms-sm-1 clase shadow ">
+                            <div class="col-4 text-center claseidioma mt-5 ">
                                 <i class="fas fa-star"></i>
                             </div>
                             <div class="col-8 p-5">
@@ -290,6 +290,24 @@
             </div>
         </section>
     </main>
+
+    <footer class="container mt-4 ">
+        <div class="row footer-proyecto footer">
+            <div class=" col-12 col-sm-3  ">
+                <i class="fa-brands fa-github iconos- m-2"></i>
+                <i class="fa-brands fa-linkedin-in iconos mb-5 pt-2"></i>
+            </div>
+            <div class=" col-12 col-sm-3">Sponsor<a href="http://depcsuite.com">DePC Suite</a>
+            </div>
+            <div class=" col-12 col-sm-3"> <a
+                    href="mail.to:contacto@yamilamorales.com.ar">contacto@yamilamorales.com.ar</a>
+            </div>
+        </div>
+    </footer>
+    <div class="whatsapp pt-3 pb-4 px-3">
+        <a href="http?//api.whatsapp.com/send?phone1168372742" title="whatsApp">
+            <i class="fa-brands fa-whatsapp"></i></a>
+    </div>
 
 </body>
 
